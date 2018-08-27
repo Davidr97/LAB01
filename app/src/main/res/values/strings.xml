@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LAB01</string>
+    <string name="button_okay">OK</string>
+    <string name="button_close">Cancel</string>
+    <string name="button_text">Show text</string>
+    <string name="button_activities">Applications</string>
+    <string name="button_share">Share</string>
+    <string name="button_pick">Pick a photo</string>
+    <string name="send_chooser_title">Share with:</string>
+    <string name="pick_chooser_title">Pick a picture with:</string>
+    <string name="view_chooser_title">View the picture with:</string>
+</resources>
